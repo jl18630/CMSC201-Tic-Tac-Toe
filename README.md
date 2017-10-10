@@ -1,4 +1,4 @@
-# CMSC201_SemesterProject
+# CMSC201_SemesterProject1
 
 Tic-Tac-Toe: 
 
